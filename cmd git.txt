@@ -1,0 +1,7 @@
+git add . "adciona os arquivos local"
+
+git commit  -m "comentarios para os arquivos"
+
+git status "para ver os status"
+
+git push origin main "envia os arquivos nuvem"
